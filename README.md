@@ -38,11 +38,6 @@ CommissionIQ uses machine learning to predict commissioning delays **2-3 weeks i
 
 ---
 
-## Demo
-
-### Web Dashboard
-![Dashboard Preview](https://drive.google.com/file/d/1_F7tI6CVRdE0XcbXECuvdSLOZN7tD8T4/view?usp=share_link)
-
 ### CLI Demo
 ```bash
 $ python demo.py
