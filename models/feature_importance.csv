@@ -1,0 +1,14 @@
+feature,importance
+document_completeness_pct,0.18043464710934093
+contractor_performance_score,0.16077807171841488
+planned_duration_days,0.09807501056257407
+equipment_type_encoded,0.09614762811258185
+contractor_encoded,0.07692580337206847
+num_dependencies,0.07204922520159612
+activity_type_encoded,0.06529284796667471
+resource_availability_encoded,0.06297867320907945
+system_type_encoded,0.058804855731336564
+complexity_encoded,0.045948096423755025
+complexity_score,0.045934682554039465
+prior_similar_experience_int,0.031361032921577964
+weather_sensitive_int,0.005269425116960647

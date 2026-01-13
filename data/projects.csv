@@ -1,0 +1,51 @@
+project_id,project_name,project_type,location,project_value_millions,planned_duration_days,start_date,contractor,building_size_sqft
+PRJ-001,Higher Education - Boston Phase 1,Higher Education,"San Francisco, CA",130.0,322,2023-02-22,Siemens,1288352
+PRJ-002,Office Building - Boston Phase 1,Data Center,"New York, NY",124.0,207,2023-10-15,Carrier,1551601
+PRJ-003,Higher Education - Chicago Phase 3,Office Building,"New York, NY",230.1,464,2023-01-04,Trane,1514104
+PRJ-004,Office Building - San Francisco Phase 2,Hospital,"New York, NY",479.0,524,2023-02-22,Siemens,846765
+PRJ-005,Data Center - San Francisco Phase 2,Manufacturing,"San Francisco, CA",405.5,650,2023-10-02,Siemens,1984193
+PRJ-006,Office Building - Boston Phase 3,Airport,"Dallas, TX",318.0,550,2023-10-23,Carrier,1527594
+PRJ-007,Data Center - Boston Phase 3,Hospital,"Dallas, TX",151.8,261,2023-04-30,Siemens,847182
+PRJ-008,Airport - Austin Phase 3,Airport,"New York, NY",191.4,394,2023-12-10,ABB,1521823
+PRJ-009,Higher Education - Chicago Phase 1,Manufacturing,"Chicago, IL",93.9,430,2023-03-25,Eaton,845775
+PRJ-010,Airport - Chicago Phase 3,Manufacturing,"New York, NY",345.5,237,2023-04-28,Johnson Controls,1738303
+PRJ-011,Airport - Austin Phase 2,Data Center,"New York, NY",457.4,502,2023-04-19,Eaton,879700
+PRJ-012,Higher Education - Austin Phase 1,Airport,"New York, NY",130.8,449,2023-10-27,Honeywell,1932871
+PRJ-013,Manufacturing - Austin Phase 2,Hospital,"New York, NY",259.7,273,2023-01-25,Siemens,370531
+PRJ-014,Higher Education - New York Phase 3,Office Building,"Seattle, WA",41.1,570,2023-11-02,Eaton,1159633
+PRJ-015,Airport - Seattle Phase 1,Higher Education,"Chicago, IL",66.1,729,2023-05-17,Schneider Electric,283941
+PRJ-016,Airport - Austin Phase 1,Office Building,"Boston, MA",477.4,449,2023-09-14,Trane,1114685
+PRJ-017,Data Center - Dallas Phase 3,Airport,"Dallas, TX",323.1,383,2023-03-20,Schneider Electric,1649101
+PRJ-018,Hospital - Seattle Phase 3,Data Center,"Seattle, WA",168.8,199,2023-02-27,Schneider Electric,1892813
+PRJ-019,Airport - New York Phase 1,Hospital,"Seattle, WA",474.0,267,2023-09-06,Siemens,1645098
+PRJ-020,Manufacturing - Dallas Phase 1,Hospital,"Chicago, IL",242.9,349,2023-05-16,Honeywell,494173
+PRJ-021,Manufacturing - Dallas Phase 3,Higher Education,"New York, NY",359.3,588,2023-12-10,Schneider Electric,968762
+PRJ-022,Manufacturing - Austin Phase 1,Hospital,"New York, NY",41.4,201,2023-10-29,Carrier,1284048
+PRJ-023,Hospital - Boston Phase 1,Higher Education,"Chicago, IL",38.8,249,2023-01-17,Schneider Electric,198598
+PRJ-024,Manufacturing - New York Phase 2,Higher Education,"Austin, TX",115.0,315,2023-10-20,Eaton,559602
+PRJ-025,Office Building - Dallas Phase 2,Hospital,"Boston, MA",57.5,621,2023-07-01,Honeywell,912143
+PRJ-026,Office Building - Dallas Phase 3,Data Center,"Chicago, IL",330.2,280,2023-02-01,Honeywell,1577174
+PRJ-027,Airport - Dallas Phase 1,Hospital,"New York, NY",103.2,639,2023-03-13,Honeywell,434802
+PRJ-028,Airport - Austin Phase 1,Data Center,"Austin, TX",405.9,280,2023-01-26,Johnson Controls,245586
+PRJ-029,Hospital - New York Phase 2,Office Building,"Austin, TX",114.7,590,2023-01-31,Trane,844764
+PRJ-030,Data Center - Austin Phase 2,Office Building,"San Francisco, CA",217.3,678,2023-03-21,Carrier,672241
+PRJ-031,Hospital - Boston Phase 3,Higher Education,"Seattle, WA",39.9,501,2023-01-30,Johnson Controls,1275109
+PRJ-032,Office Building - Seattle Phase 3,Hospital,"Boston, MA",480.8,262,2023-04-06,Siemens,1297879
+PRJ-033,Data Center - Chicago Phase 1,Office Building,"Boston, MA",471.4,432,2023-10-24,Johnson Controls,1348937
+PRJ-034,Data Center - Austin Phase 3,Manufacturing,"Seattle, WA",266.2,447,2023-04-15,Schneider Electric,550560
+PRJ-035,Airport - Austin Phase 1,Higher Education,"Chicago, IL",157.0,503,2023-02-07,Johnson Controls,1011094
+PRJ-036,Manufacturing - Seattle Phase 1,Data Center,"Seattle, WA",114.4,451,2023-03-09,Schneider Electric,1897306
+PRJ-037,Data Center - New York Phase 2,Airport,"New York, NY",224.7,489,2023-11-10,Johnson Controls,1450610
+PRJ-038,Manufacturing - San Francisco Phase 3,Data Center,"New York, NY",139.6,289,2023-10-11,Trane,621155
+PRJ-039,Airport - Seattle Phase 1,Higher Education,"San Francisco, CA",109.8,450,2023-09-16,Eaton,576639
+PRJ-040,Data Center - Boston Phase 3,Office Building,"Dallas, TX",145.6,183,2023-06-20,Trane,1386123
+PRJ-041,Airport - New York Phase 3,Office Building,"Seattle, WA",355.8,189,2023-02-27,Siemens,1902008
+PRJ-042,Higher Education - New York Phase 3,Data Center,"Dallas, TX",190.9,331,2023-08-09,Trane,137721
+PRJ-043,Airport - San Francisco Phase 1,Airport,"New York, NY",344.2,285,2023-07-01,Honeywell,1351621
+PRJ-044,Higher Education - New York Phase 1,Hospital,"Dallas, TX",407.3,602,2023-01-13,Trane,1594687
+PRJ-045,Airport - Dallas Phase 2,Higher Education,"Dallas, TX",370.2,434,2023-05-17,Trane,1701244
+PRJ-046,Higher Education - Boston Phase 2,Data Center,"Dallas, TX",240.6,384,2023-08-24,Schneider Electric,690031
+PRJ-047,Hospital - New York Phase 1,Higher Education,"New York, NY",205.2,465,2023-02-05,ABB,786406
+PRJ-048,Higher Education - Seattle Phase 2,Higher Education,"Dallas, TX",272.7,208,2023-03-01,ABB,424483
+PRJ-049,Manufacturing - San Francisco Phase 1,Data Center,"Seattle, WA",222.9,501,2023-08-12,Siemens,857813
+PRJ-050,Manufacturing - New York Phase 2,Data Center,"Chicago, IL",223.7,712,2023-10-03,Carrier,813827
